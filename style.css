@@ -1,0 +1,17 @@
+body{font-family:
+     Arial, sans-serif;
+      line-height: 1.6;
+      margin:20px;}
+
+   section{ margin-bottom:30px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    margin-top: 10px;
+} p {
+    margin-top: 5px;
+    color: #555;
+}
